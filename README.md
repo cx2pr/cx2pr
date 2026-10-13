@@ -16,7 +16,7 @@ i refuse to work with ai, but make it for actual new advancements! make things e
 [CL4NKR Discord Bot](https://clankr.tech) - a high quality, fully customizable, engaging and completely free-to-use Discord bot.
 
 ## best languages
-[![my skills](https://skillicons.dev/icons?i=html5,css,lua,nodejs,js,java,godot,bun,apple,swift,ts,golang&theme=light&perline=5)](https://skillicons.dev)
+[![my skills](https://skillicons.dev/icons?i=html,css,lua,nodejs,js,java,godot,bun,apple,swift,ts,golang&theme=light&perline=5)](https://skillicons.dev)
 
 ## learning...
 [![learning](https://skillicons.dev/icons?i=rust,cpp,cs&theme=light&perline=5)](https://skillicons.dev)
