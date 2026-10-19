@@ -6,8 +6,10 @@ i refuse to work with ai, but make it for actual new advancements! make things e
 
 ## about me for nerds
 
-### main focus...
+### main focuses...
 [Gatita AI](https://gatita.tech/) - human-like chat UI that excels at writing, reasoning, and logic. completely free. [OPEN SOURCE]
+
+[ModelMeter 1.0](https://modelmeter.lol/) - dynamic AI benchmarks that scale with advancements. built for vibe and actual intelligence.
 
 [Gatita AI API](https://gatita.tech/api) - bring Gatita to your IDE for $0. agentic coding in any code editor, and chat as a service for your website.
 
